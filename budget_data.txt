@@ -1,0 +1,7 @@
+budget_data.txtFinancial Analysis'+'
+--------------------------'+'
+Total Months: 86
+Total: $38382578
+Average Change: $-2315.1176470588234
+Greatest Increase in Profits: + str(increase_month) ($(increase_profit)
+Greatest Decrease in Profits: + str(decrease_month) ($(decrease_profit)
